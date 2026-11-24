@@ -32,4 +32,4 @@ Desinstale o NTOobs e apague a pasta `%AppData%\NTOobs`. Para sair da Twitch, us
 
 ## Contato
 
-Dúvidas: abra uma issue em https://github.com/Noturninh0/NTOobs/issues
+Dúvidas: abra uma issue em https://github.com/Noturninhox/NTOobs/issues

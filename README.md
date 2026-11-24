@@ -4,6 +4,8 @@
 
 <a href="https://apps.microsoft.com/detail/9PG141XJTKRD?mode=direct"><img src="https://get.microsoft.com/images/pt-br%20dark.svg" width="200" alt="Baixar na Microsoft Store"/></a>
 
+> **Novo endereço:** o repositório oficial do NTOobs agora é **[github.com/Noturninhox/NTOobs](https://github.com/Noturninhox/NTOobs)** (antes ficava em Noturninh0).
+
 O NTOobs funciona como um StreamDeck feito de teclado. Você escolhe uma tecla, diz o que ela deve fazer no OBS (trocar de cena, mutar o microfone, iniciar a gravação...) e pronto: com o programa aberto, a tecla funciona mesmo que você esteja dentro de um jogo ou de outra janela.
 
 Você pode usar o teclado principal ou **um segundo teclado (ou macropad) só para o OBS**. O NTOobs sabe de qual teclado cada tecla veio, então o teclado extra não atrapalha o que você digita no principal.
