@@ -1,0 +1,5 @@
+# Estatisticas de linguagem do GitHub: o NTOobs e um app C#/WPF
+*.cs    linguist-language=C#
+*.xaml  linguist-detectable=true
+*.bat   linguist-detectable=false
+*.iss   linguist-detectable=false
